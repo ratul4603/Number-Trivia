@@ -50,5 +50,5 @@ const getRandomFactPage = ()=>{
 
 radomFactBtn.addEventListener("click", getRandomFactPage);
 
-window.addEventListener("load", getRandomFactPage);
+// window.addEventListener("load", getRandomFactPage);
 
